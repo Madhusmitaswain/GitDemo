@@ -13,6 +13,10 @@ public class App
 	public void addedMethod() { 
 	System.out.println("welcome again new method added !!!! tHanks");
 	}
+	public void addedMethod2() { 
+		System.out.println("welcome again new method  one more time added !!!! tHanks");
+		}
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
